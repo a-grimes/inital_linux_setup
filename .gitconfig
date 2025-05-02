@@ -1,0 +1,12 @@
+[user]
+	name = Andy G
+	email = andy.g.grimes@gmail.com
+	username = a-grimes
+[core]
+	editor = "/usr/bin/vim"
+[color]
+	ui = auto
+[push]
+	default = simple
+[commit]
+	template = /home/andy/.git-commit-template
