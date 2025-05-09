@@ -9,4 +9,4 @@
 [push]
 	default = simple
 [commit]
-	template = /home/andy/.git-commit-template
+	template = ./.git-commit-template
