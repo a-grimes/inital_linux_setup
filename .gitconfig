@@ -3,7 +3,7 @@
 	email = andy.g.grimes@gmail.com
 	username = a-grimes
 [core]
-	editor = "/usr/bin/vim"
+	editor = "/usr/bin/vi"
 [color]
 	ui = auto
 [push]

@@ -11,7 +11,7 @@ cp -u ./.bash_aliases ~/.bash_aliases
 cp -u ./.gitconfig ~/.gitconfig
 cp -u ./.gitignore ~/.gitignore
 cp -u ./.git-commit-template ~/.git-commit-template
-cp -u ./update-linux.sh ~/bash/.update-linux.sh
+cp -u ./update-linux.sh ~/bash/update-linux.sh
 cp -u ./argonfanhat.sh ~/argonfanhat.sh
 
 # chmod for executable files
