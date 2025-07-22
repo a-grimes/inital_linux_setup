@@ -5,6 +5,7 @@ alias lg='ls -AFhl --group-directories-first'
 
 # functions/scripts
 alias update="~/bash/update-linux.sh"
+alias reboot="sudo shutdown -r now"
 
 # git aliases
 alias gs='git status'
