@@ -11,5 +11,5 @@ alias reboot="sudo shutdown -r now"
 alias gs='git status'
 
 # ssh
-#OLD alias rpa='ssh pi@10.10.0.10' # rpi-alpha
-#OLD alias rpb='ssh ubuntu@10.10.0.11' # rpi-beta
+#alias rpa='ssh andy@10.10.0.10' # rpi-alpha
+#alias rpb='ssh andy@10.10.0.11' # rpi-beta
