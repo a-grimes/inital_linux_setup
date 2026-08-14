@@ -12,4 +12,5 @@ alias gs='git status'
 
 # ssh
 #alias rpa='ssh andy@10.10.0.10' # rpi-alpha
-#alias rpb='ssh andy@10.10.0.11' # rpi-beta
+#alias rpb='ssh beta@10.10.0.11' # rpi-beta
+#alias ssh-server='ssh synology_admin@10.10.20.10 -p 52467' # server; default SSH port changed to 52467
