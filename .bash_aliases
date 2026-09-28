@@ -10,6 +10,9 @@ alias reboot="sudo shutdown -r now"
 # git aliases
 alias gs='git status'
 
+# docker alias
+alias ds="docker ps --format 'table {{.ID}}\t{{.Names}}\t{{.Image}}\t{{.Status}}'"
+
 # ssh
 #alias rpa='ssh andy@10.10.0.10' # rpi-alpha
 #alias rpb='ssh beta@10.10.0.11' # rpi-beta
