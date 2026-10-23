@@ -11,6 +11,9 @@ alias temp="vcgencmd measure_temp"
 # git aliases
 alias gs='git status'
 
+# docker alias
+alias ds="docker ps --format 'table {{.ID}}\t{{.Names}}\t{{.Image}}\t{{.Status}}'"
+
 # ssh
 #alias ssh-rpa='ssh andy@10.10.0.10' # rpi-alpha
 #alias ssh-rpb='ssh andy@10.10.0.11' # rpi-beta
